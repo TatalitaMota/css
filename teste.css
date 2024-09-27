@@ -1,0 +1,14 @@
+body{ background-color: black;}
+div {
+    width: 250px;
+    height: 250px;
+    background-color: blue;
+}
+
+.imagem{
+    width: 300px;
+    height: 300px;
+}
+#paragrafo{ color: white;
+    font-size: 15px;
+}

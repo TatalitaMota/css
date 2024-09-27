@@ -1,0 +1,26 @@
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    color: blue;
+}
+body{ background-color: lightpink;
+    
+}
+.imagem{
+    width: 500px;
+height: 500px;
+
+}
+#paragrafo{ color: red;
+font-size: 20px;
+}
+.link{
+    text-align: ;
+    width: 150px;
+    height: 50px;
+    background-color: black;
+    color: white;
+border-radius: 10px;
+text-decoration: none;
+font-size: 20px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;}
